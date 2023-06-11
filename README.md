@@ -1,5 +1,12 @@
 # This is a Django REST Framework (DRF) project for an Event Management API. It provides endpoints for managing events and tickets. The API documentation is available through Swagger UI and ReDoc.
 
+# This Project is hosted on PythonAnyWhere on `https://ajeshvyas.pythonanywhere.com/` :
+
+    - Admin Credentials :
+        Username = ajeshvyas
+        Email = ajeshvyas7566@gmail.com
+        Password = Ajesh@python
+
 # Requirements
 
 - Python 3.x

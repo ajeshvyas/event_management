@@ -1,0 +1,30 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+env/
+*.env
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+
+# Development settings
+*.sqlite3
+
+# IDE specific files
+.idea/
+.vscode/
+
+# Compiled files
+*.pyc
+
+# Dependency directories
+lib/
+libs/
+dist/
+build/
